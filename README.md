@@ -19,7 +19,7 @@ A secure international payments portal built with the MERN stack (MongoDB, Expre
      npm install
 
 3. Set up environment variables in .env file:
-     MONGODB_URI=your_mongodb_connection_string
+     MONGODB_URI="mongodb+srv://klmoroanekgomo:Password123@cluster0.44zayam.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
      JWT_SECRET=your_jwt_secret_key
      PORT=3001
 
