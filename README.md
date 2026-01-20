@@ -19,7 +19,7 @@ A secure international payments portal built with the MERN stack (MongoDB, Expre
      npm install
 
 3. Set up environment variables in .env file:
-     MONGODB_URI="mongodb+srv://klmoroanekgomo:Password123@cluster0.44zayam.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+     MONGODB_URI=
      JWT_SECRET=your_jwt_secret_key
      PORT=3001
 
@@ -102,3 +102,5 @@ Test 5: Security Features
 1. Try accessing /payments without logging in (should redirect to login)
 2. Test rate limiting with multiple failed login attempts
 3. Verify JWT token expiration
+
+Email me for the Mongodb_uri @ kl.moroanekgomo@gmail.com
